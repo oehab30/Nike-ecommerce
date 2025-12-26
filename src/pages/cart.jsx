@@ -1,10 +1,8 @@
 import React from 'react'
-
 function cart() {
   return (
 <>
 <h2>  cart Page</h2>;
-
       </>
        )
 }

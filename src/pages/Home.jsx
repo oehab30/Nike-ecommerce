@@ -1,13 +1,10 @@
 import React from 'react'
-import  Herosection from '../components/Hero'
-
-function Home() {
+import  HeroSection from '../components/home-page/Hero'
+function Error() {
   return (
 <>
-
-<Herosection/>
-
-      </>
+<HeroSection/>
+ </>
      )
 }
-export default Home
+export default Error

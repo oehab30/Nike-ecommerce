@@ -1,7 +1,9 @@
+import Navbox from '@/components/common/Navbox'
 import React from 'react'
 function Contact() {
   return (
 <>
+<Navbox/>
       <h2>📞 Contact Us Page</h2>;
       </>
      )
